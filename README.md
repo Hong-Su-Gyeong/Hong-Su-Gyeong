@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sugang258&theme=radical&show_icons=true)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sugang258&layout=compact)](https://github.com/olrlobt/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sugang258&layout=compact)](https://github.com/sugang258/github-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=olivia258)](https://solved.ac/olivia258)
 
 ### Velog
 📕[Lucy_1215](https://velog.io/@lucy_1215)
