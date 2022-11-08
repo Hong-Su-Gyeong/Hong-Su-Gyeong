@@ -18,3 +18,6 @@ Here are some ideas to get you started:
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sugang258&theme=radical&show_icons=true)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sugang258&layout=compact)](https://github.com/olrlobt/github-readme-stats)
+
+### Velog
+📕[Lucy_1215](https://velog.io/@lucy_1215)
