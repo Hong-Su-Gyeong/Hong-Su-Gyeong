@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hi there 👋
 
 <!--
@@ -52,4 +54,4 @@ Here are some ideas to get you started:
 # 👑Ranking
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=olivia258)](https://solved.ac/olivia258/)
 
-
+</div>
