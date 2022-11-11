@@ -37,10 +37,14 @@ Here are some ideas to get you started:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 <!--![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)-->
 
-<!-- ### Studying
+### Studying
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333.svg?&style=for-the-badge&logo=WebRTC&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
- -->
+
+
+
 
 # :mailbox_with_mail: Contacts
 [![Velog](http://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&link=https://velog.io/@lucy_1215)](https://velog.io/@lucy_1215)
