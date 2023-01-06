@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 # :mailbox_with_mail: Contacts
-[![Velog](http://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&link=https://velog.io/@lucy_1215)](https://velog.io/@lucy_1215)
+[![Tistory](http://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&link=https://lucy1215.tistory.com/)](https://lucy1215.tistory.com/)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:olivia258@naver.com)](mailto:olivia258@naver.com)
 
 # 💻My stats
