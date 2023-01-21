@@ -1,7 +1,7 @@
 <div align="center">
 
-### Hi there 👋
-## 나중은 결코 오지 않는다.
+### Hi there 👋))
+## 나중은 결코 오지 않는다!
 <!--
 **sugang258/sugang258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
