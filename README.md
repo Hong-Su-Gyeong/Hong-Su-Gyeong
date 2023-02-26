@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 ### Studying
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333.svg?&style=for-the-badge&logo=WebRTC&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
+ <img src="https://mediapipe.dev/images/mediapipe_small.png"  width="200" height="30"/>
 
 
 
