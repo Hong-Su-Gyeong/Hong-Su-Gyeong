@@ -2,7 +2,8 @@
 
 ### Hi there 👋
 ## 나중은 결코 오지 않는다.
-## [PortFolio](https://simple-value-864.notion.site/d54637a6d5ba4552b0ba96101ce54aa8)
+### [PortFolio](https://simple-value-864.notion.site/d54637a6d5ba4552b0ba96101ce54aa8)
+### [Tistroy](https://lucy1215.tistory.com/)
 <!--
 **sugang258/sugang258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,13 +44,6 @@ Here are some ideas to get you started:
 ![WebRTC](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
  <img src="https://mediapipe.dev/images/mediapipe_small.png"  width="200" height="30"/>
 
-
-
-
-
-# :mailbox_with_mail: Contacts
-[![Tistory](http://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&link=https://lucy1215.tistory.com/)](https://lucy1215.tistory.com/)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:olivia258@naver.com)](mailto:olivia258@naver.com)
 
 # 💻My stats
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sugang258&theme=radical&show_icons=true)
