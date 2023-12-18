@@ -42,10 +42,7 @@ Here are some ideas to get you started:
 <!--![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)-->
 
 ### Studying
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
-![WebRTC](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
- <img src="https://mediapipe.dev/images/mediapipe_small.png"  width="200" height="30"/>
-
+<img src="https://velog.velcdn.com/images/dev_zzame/post/0491a410-cf2e-4e35-a26a-e33671955d9a/64585171-96511580-d3d2-11e9-947d-8f1e98e46100.png" width="200" height="80"/>
 
 # 💻My stats
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sugang258&theme=radical&show_icons=true)
