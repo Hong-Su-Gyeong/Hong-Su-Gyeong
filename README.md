@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 <img src="https://velog.velcdn.com/images/dev_zzame/post/0491a410-cf2e-4e35-a26a-e33671955d9a/64585171-96511580-d3d2-11e9-947d-8f1e98e46100.png" width="200" height="80"/>
 
 # 💻My stats
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sugang258&theme=radical&show_icons=true)
+[![lucy1215 GitHub stats](https://github-readme-stats.vercel.app/api?username=sugang258&theme=radical)](https://github.com/sugang258/github-readme-stats)
+
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sugang258&layout=compact)](https://github.com/sugang258/github-readme-stats)
 
