@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 
 ### Studying
 ![hibernate](https://img.shields.io/badge/hibernate-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white)
-<img src="https://static-00.iconduck.com/assets.00/jpa-icon-512x232-q68yveyr.png" width="150" height="50"/>
+<img src="https://velog.velcdn.com/images/dev_zzame/post/0491a410-cf2e-4e35-a26a-e33671955d9a/64585171-96511580-d3d2-11e9-947d-8f1e98e46100.png" width="200" height="80"/>
+
 
 # 💻My stats
 [![lucy1215 GitHub stats](https://github-readme-stats.vercel.app/api?username=sugang258&theme=radical)](https://github.com/sugang258/github-readme-stats)
