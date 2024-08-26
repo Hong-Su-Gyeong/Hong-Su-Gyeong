@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 # 💻My stats
-[![lucy1215 GitHub stats](https://github-readme-stats.vercel.app/api?username=sugang258&theme=radical)](https://github.com/sugang258/github-readme-stats)
+<!--[![lucy1215 GitHub stats](https://github-readme-stats.vercel.app/api?username=sugang258&theme=radical)](https://github.com/sugang258/github-readme-stats) !-->
 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sugang258&layout=compact)](https://github.com/sugang258/github-readme-stats)
